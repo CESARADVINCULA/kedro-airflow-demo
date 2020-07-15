@@ -1,0 +1,1 @@
+{"type": "ContextJournalRecord", "run_id": "2020-07-14T21.22.34.012Z", "project_path": "/Users/cesar_i_advincula/demoproject", "env": "local", "kedro_version": "0.16.2", "tags": null, "from_nodes": null, "to_nodes": null, "node_names": null, "from_inputs": null, "load_versions": null, "pipeline_name": null, "extra_params": null, "git_sha": null}
